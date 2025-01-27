@@ -50,6 +50,9 @@ func popupViewContentHeight(_ identifier: String) -> CGFloat {
 }
 ```
 
+### Share
+My understanding of encapsulation is to focus on doing one thing purely. If the process is perfect, there is no need to let it carry more. I provide a WCXPopup component with pop-up window as the core. You can use it to define your own content and give full play to your imagination.
+
 ## Requirements
 
 - iOS 13.0+
@@ -68,13 +71,13 @@ marst123, tianlan2325@qq.com
 
 **WCXPopup** is available under the MIT license. See the [LICENSE][5] file for more details.
 
-[1]:    https://travis-ci.org/marst123/WCXPopup
-[2]:    https://cocoapods.org/pods/WCXPopup
-[3]:    https://cocoapods.org/pods/WCXPopup
-[4]:    https://cocoapods.org/pods/WCXPopup
-[5]:    LICENSE
+[1]:	https://travis-ci.org/marst123/WCXPopup
+[2]:	https://cocoapods.org/pods/WCXPopup
+[3]:	https://cocoapods.org/pods/WCXPopup
+[4]:	https://cocoapods.org/pods/WCXPopup
+[5]:	LICENSE
 
-[image-1]:    https://img.shields.io/travis/marst123/WCXPopup.svg?style=flat
-[image-2]:    https://img.shields.io/cocoapods/v/WCXPopup.svg?style=flat
-[image-3]:    https://img.shields.io/cocoapods/l/WCXPopup.svg?style=flat
-[image-4]:    https://img.shields.io/cocoapods/p/WCXPopup.svg?style=flat
+[image-1]:	https://img.shields.io/travis/marst123/WCXPopup.svg?style=flat
+[image-2]:	https://img.shields.io/cocoapods/v/WCXPopup.svg?style=flat
+[image-3]:	https://img.shields.io/cocoapods/l/WCXPopup.svg?style=flat
+[image-4]:	https://img.shields.io/cocoapods/p/WCXPopup.svg?style=flat

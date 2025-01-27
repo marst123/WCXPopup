@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WCXPopup'
-  s.version          = '0.1.01'
+  s.version          = '0.1.02'
   s.summary          = 'This is the core view of a custom pop-up window, which supports animation display and hiding, and supports scene interpretation in four directions: up, down, left, and right.'
 
 # This description is used to generate tags and improve search results.
