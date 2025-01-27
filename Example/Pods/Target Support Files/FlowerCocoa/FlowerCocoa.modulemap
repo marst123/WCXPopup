@@ -1,0 +1,6 @@
+framework module FlowerCocoa {
+  umbrella header "FlowerCocoa-umbrella.h"
+
+  export *
+  module * { export * }
+}

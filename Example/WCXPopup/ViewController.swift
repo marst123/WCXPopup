@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  WCXPopup
+//  MTPopup
 //
 //  Created by marst123 on 01/27/2025.
 //  Copyright (c) 2025 marst123. All rights reserved.
@@ -20,5 +20,8 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func mtPopupAction(_ sender: Any) {
+        self.navigationController?.pushVC(PopupViewController())
+    }
 }
 

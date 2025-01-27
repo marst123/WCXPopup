@@ -1,0 +1,33 @@
+PODS:
+  - FlowerCocoa (0.3.2):
+    - Moisture
+  - Moisture (0.1.007):
+    - Moisture/Common (= 0.1.007)
+  - Moisture/Common (0.1.007)
+  - SnapKit (5.7.1)
+  - WCXPopup (0.1.01)
+
+DEPENDENCIES:
+  - FlowerCocoa
+  - SnapKit
+  - WCXPopup (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FlowerCocoa
+    - Moisture
+    - SnapKit
+
+EXTERNAL SOURCES:
+  WCXPopup:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FlowerCocoa: a7837bd7dcb91a0f20bd6f3c02ea01eb8f4cf4c0
+  Moisture: 197eb1222dbd7f83f1292db32e9e4c85367df29a
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+  WCXPopup: e850eff73ec0adc1899b74302ff172422101edbe
+
+PODFILE CHECKSUM: cc02eb366eac19d5e334a3d7800a53b9f9b320fe
+
+COCOAPODS: 1.16.2
