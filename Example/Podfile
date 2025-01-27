@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'WCXPopup_Example' do
+  pod 'WCXPopup', :path => '../'
+
+  target 'WCXPopup_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
